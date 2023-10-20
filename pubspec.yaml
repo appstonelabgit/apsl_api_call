@@ -1,6 +1,8 @@
 name: apsl_api_call
 description: A new Flutter package project.
 version: 0.0.1
+homepage: https://github.com/appstonelabgit/apsl_api_call
+repository: https://github.com/appstonelabgit/apsl_api_call
 
 environment:
   sdk: '>=3.1.3 <4.0.0'
