@@ -30,7 +30,7 @@ dependencies:
 ```
 
 
-## Usage
+##  Example
 
 **Making an API Call**
 

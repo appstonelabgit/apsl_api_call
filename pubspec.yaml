@@ -1,6 +1,6 @@
 name: apsl_api_call
-description: A new Flutter package project.
-version: 0.0.1
+description: A robust Flutter package for streamlined API calls. Simplifies error handling, supports multipart requests, and integrates seamlessly with various backends. Ideal for apps requiring reliable network communication.
+version: 0.0.2
 homepage: https://github.com/appstonelabgit/apsl_api_call
 repository: https://github.com/appstonelabgit/apsl_api_call
 
